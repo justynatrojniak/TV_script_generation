@@ -1,5 +1,7 @@
 # TV_script_generation
 
+Project from Deep Learning Nanodegree - Udacity
+
 I'm generating my own Seinfeld TV scripts using RNNs. I'm using part of the [Seinfeld](https://en.wikipedia.org/wiki/Seinfeld) dataset of scripts from 9 seasons. 
 The Neural Network will generate a new ,"fake" TV script, based on patterns it recognizes in this training data.
 
