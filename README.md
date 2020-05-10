@@ -12,9 +12,11 @@ The Neural Network will generate a new ,"fake" TV script, based on patterns it r
 	cd tv-script-generation-using-RNN
 	```
 2. Open the `tv_script_generation.ipynb` file. 
+
 	```
 	jupyter notebook tv_script_generation.ipynb
 	```
+	
 3. Read and follow the instructions in the notebook
 
 ### Project Steps
